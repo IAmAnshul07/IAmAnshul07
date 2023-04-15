@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
   
 
-### <div align="center">I'm Anshul, a full-time developer 👨‍💻 </div>  
+# <div align="center">Hey 👋, I'm Anshul, a full-time developer 👨‍💻 </div>  
   
 
 - 🌱 I’m currently learning React  
