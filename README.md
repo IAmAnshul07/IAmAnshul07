@@ -4,7 +4,7 @@
 # <div align="center">Hey 👋, I'm Anshul, a full-time developer 👨‍💻 </div>  
   
 
-- 🌱 Working with React  
+- 🌱 Working with React, TypeScript and Nextjs  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
